@@ -1316,7 +1316,9 @@ a {
 }
 
 .w3-padding-large {
-    padding: 12px 24px!important
+    padding: 12px 24px !important;
+    background-color: darkslategray;
+    opacity: .9;
 }
 
 .w3-padding-16 {
